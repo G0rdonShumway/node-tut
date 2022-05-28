@@ -18,9 +18,10 @@ const server = http.createServer((req, res) => {
 server.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 
 // add listener for log event
-// myEmitter.on("log", (msg) => {
-//   logEvents(msg);
-// });
+/*
+myEmitter.on("log", (msg) => {
+   logEvents(msg);
+});
 
-// myEmitter.emit("log", "Log event emitted!");
-console.log('Everything')
+myEmitter.emit("log", "Log event emitted!");
+*/
