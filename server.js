@@ -23,4 +23,4 @@ server.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 // });
 
 // myEmitter.emit("log", "Log event emitted!");
-console.log('Everything is just fine')
+console.log('Everything')
