@@ -1,0 +1,15 @@
+05 Jun 2022	04:15:22	b2893485-2c72-4c82-a238-09ca6748ba7a	/new-page.html	GET
+05 Jun 2022	04:15:22	bcef33d0-71a7-4ed6-a9c1-4972b2f739c2	/css/style.css	GET
+05 Jun 2022	04:15:22	90bbc70f-9746-4e13-9aea-8dd54a8db066	/img/cat.jpg	GET
+05 Jun 2022	04:16:01	5a4bc29d-cccd-454f-8f98-04cac7c76502	/new-page.html	GET
+05 Jun 2022	04:16:14	c0fa0c42-c776-45ae-93d5-2de6beab62af	/new-page.html	GET
+05 Jun 2022	04:16:14	7a415a1f-8271-491f-963a-7e54f8b9bc8e	/css/style.css	GET
+05 Jun 2022	04:16:14	2f32558d-29b2-4cca-8a77-f87077286596	/img/cat.jpg	GET
+05 Jun 2022	04:17:00	d0afa7d3-827b-4ff0-96ec-76409d5aa175	/	GET
+05 Jun 2022	04:17:00	aa522079-97f0-42f2-be11-5a1d48e6c5a1	/css/style.css	GET
+05 Jun 2022	04:17:10	54e536c2-dddd-4130-b5ca-535d3e1611f1	/subdir	GET
+05 Jun 2022	04:17:11	91e86e45-65a2-4e02-acd9-aa5dfed97fb5	/css/style.css	GET
+05 Jun 2022	04:17:16	2178f4d8-dad7-417a-b2dd-68a582ed930e	/subdir/	GET
+05 Jun 2022	04:17:16	9685003e-4223-4aab-9de5-186fdccdea5a	/css/style.css	GET
+05 Jun 2022	04:17:32	60e9a76d-0cdb-4e70-891a-52d8247d6ffc	/subdir/index.html	GET
+05 Jun 2022	04:17:32	cfc74929-2342-4b24-9148-b69217cf644a	/css/style.css	GET
